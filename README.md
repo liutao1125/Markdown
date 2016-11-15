@@ -47,7 +47,7 @@ Thank `you`.Please `call` me `coder`<br>
 [![baidu]](http://www.baidu.com)
 [baidu]:http://www.baidu.com/img/bdlogo.gif "百度logo"
 <br>
-![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)
+[![](https://github.com/liutao1125/Markdown/raw/master/img/logo.png)](http://blog.csdn.net/liutao2016 "我的博客")
 <br>
 ```Java
 public static void main(String[] args){} //Java
@@ -64,3 +64,6 @@ document.getElementById("myH1").innerHTML="Welcome to Homepage"; //javascript
 ```cpp
 string &operator+(const string& A,const& B) //cpp
 ```
+
+
+		
